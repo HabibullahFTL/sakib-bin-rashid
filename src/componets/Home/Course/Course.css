@@ -1,0 +1,10 @@
+.course-section{
+    background: #182437;
+}
+.course-wrapper{
+    background: #0A192F;
+    /* border: 2px solid #F9AB00; */
+}
+.course-wrapper .badge{
+    font-size: 16px;
+}

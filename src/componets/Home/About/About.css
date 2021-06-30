@@ -1,0 +1,18 @@
+.about{
+    background: #182437;
+}
+.title{
+    position: relative;
+}
+.title::after{
+    content: "";
+    width: 100px;
+    border-bottom: 2px solid #F9AB00;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.about-img{
+    width: 350px;
+}
